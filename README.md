@@ -2,7 +2,7 @@
 
 Simple neovim lua configuration
 
-## Instalation
+## Installation
 
 ```
 cd ~/.config/
