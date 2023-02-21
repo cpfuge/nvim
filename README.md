@@ -2,6 +2,8 @@
 
 Simple neovim lua configuration
 
+![Screenshot](docs/screenshot.png)
+
 ## Installation
 
 ```
